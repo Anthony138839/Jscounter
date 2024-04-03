@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-size: 7em;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+#btn{
+    font-size: 20px;
+}
+
+button{
+    padding: 10px 30px;
+    background-color: #55acff;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: #006cff;
+    transition: background-color 0.7s ease;
+}
